@@ -1,0 +1,17 @@
+.btn {
+  padding: 8px 16px;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+}
+
+.primary {
+  background-color: hotpink;
+  color: white;
+}
+
+.secondary {
+  background-color: yellow;
+  color: black;
+}
